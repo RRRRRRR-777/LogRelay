@@ -1,15 +1,15 @@
 [project]
 name = "logrelay"
-version = "0.1.0"
-description = "Error log relay some methods(LINE, Mail, etc...)"
+version = "0.1.1"
+description = "Error log relay using various methods (LINE, Mail, etc.)"
 authors = [
     { name = "RRRRRRR777", email = "yr1919@icloud.com" }
 ]
 dependencies = [
     "requests>=2.32.3",
 ]
-readme = "README.md"
-requires-python = ">= 3.8"
+readme = { file = "README.md", content-type = "text/markdown" }
+requires-python = ">=3.8"
 
 [build-system]
 requires = ["hatchling"]

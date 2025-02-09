@@ -3,7 +3,7 @@ name = "logrelay"
 version = "0.1.0"
 description = "Error log relay some methods(LINE, Mail, etc...)"
 authors = [
-    { name = "RRRRRRR777", email = "yr1919@icloud.com" }
+    { name = "RRRRRRR777" }
 ]
 dependencies = [
     "requests>=2.32.3",

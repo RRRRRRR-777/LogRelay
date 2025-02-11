@@ -20,6 +20,7 @@ managed = true
 dev-dependencies = [
     "build>=1.2.2.post1",
     "twine>=6.1.0",
+    "python-dotenv>=1.0.1",
 ]
 
 [tool.hatch.metadata]
